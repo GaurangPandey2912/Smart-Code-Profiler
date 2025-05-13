@@ -1,0 +1,10 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f9f9f9;
+  padding: 2rem;
+}
+
+textarea {
+  font-family: inherit;
+  font-size: 14px;
+}
